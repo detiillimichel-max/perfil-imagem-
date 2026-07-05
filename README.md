@@ -22,7 +22,7 @@ Um jogo de adivinhação estilo Perfil, feito em HTML puro, que roda offline no 
 - Funciona 100% offline
 
 ## Instalar no GitHub Pages
-1. Faça fork ou crie repositório `seu-usuario.github.io`
+1. Faça fork ou crie repositório `https://detiillimichel-max.github.io/perfil-imagem-/`
 2. Envie o arquivo `index.html`
 3. Ative Pages em Settings > Pages > Branch main
 4. Acesse https://seu-usuario.github.io
